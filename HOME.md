@@ -10,25 +10,25 @@
 ***
 
 * ### Сельское хозяйство
-    * <a href="https://vk.com/wall-183099234?offset=60&own=1&w=wall-183099234_634" target=_blank>Выращивание бобов</a>
-    * <a href="https://vk.com/wall-183099234?offset=100&own=1&w=wall-183099234_558" target=_blank>Выращивание гороха</a>
-    * <a href="https://vk.com/wall-183099234?offset=140&own=1&w=wall-183099234_359" target=_blank>Выращивание гречихи</a>
-    * <a href="https://vk.com/wall-183099234?offset=40&own=1&w=wall-183099234_667" target=_blank>Летний посев озимых</a>
-    * <a href="https://vk.com/wall-183099234?offset=120&own=1&w=wall-183099234_528" target=_blank>Яровой ячмень</a>
-    * <a href="https://vk.com/wall-183099234?offset=160&own=1&w=wall-183099234_464" target=_blank>Выращивание полбы</a>
-    * <a href="https://vk.com/wall-183099234?offset=200&own=1&w=wall-183099234_375" target=_blank>Выращивание озимой ржи</a>
-    * <a href="https://vk.com/wall-183099234?offset=100&own=1&w=wall-183099234_535" target=_blank>Сеялки ручные</a>
-    
+    * [Выращивание бобов](https://vk.com/wall-183099234_634) 
+    * [Выращивание гороха](https://vk.com/wall-183099234_558) 
+    * [Выращивание гречихи](https://vk.com/wall-183099234_359) 
+    * [Летний посев озимых](https://vk.com/wall-183099234_667) 
+    * [Яровой ячмень](https://vk.com/wall-183099234_528) 
+    * [Выращивание полбы](https://vk.com/wall-183099234_464) 
+    * [Выращивание озимой ржи](https://vk.com/wall-183099234_375) 
+    * [Сеялки ручные](https://vk.com/wall-183099234_535)
+
     **[⬆ К оглавлению](#оглавление)**
 
 * ### Гурукула
-    * `ШП` <a href="https://vk.com/wall-183099234?offset=60&own=1&w=wall-183099234_634" target=_blank>Самое важное, чему должны научиться дети</a>
-    * `БВС` <a href="https://bvks.ru/reader/articles/samoe_hudshee/" target=_blank>Самое худшее, что вы можете сделать с детьми</a>
+    * `ШП` [Самое важное, чему должны научиться дети](https://vk.com/wall-184671411_15) 
+    * `БВС` [Самое худшее, что вы можете сделать с детьмм](https://bvks.ru/reader/articles/samoe_hudshee/) 
 
     **[⬆ К оглавлению](#оглавление)**
 
 * ### Колледжи варнашрамы
-    * `ШП` <a href="https://vk.com/wall-58154410_5521" target=_blank>Важность и срочность</a>
-    * <a href="https://vk.com/wall-139508666_857" target=_blank>Идеал и возможности</a>
+    * [Идеал и возможности](https://vk.com/wall-139508666_857) 
+    * `ШП` [Важность и срочность](https://vk.com/@-58154410-kolledzh-varnashramy-neobhodimo-osnovat-nemedlenno) 
 
     **[⬆ К оглавлению](#оглавление)**
