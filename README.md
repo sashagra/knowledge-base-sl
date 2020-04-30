@@ -1,17 +1,7 @@
 # knowledge-base-sl
-База знаний о *простой* жизни и возвышенном мышлении
 
+База знаний о *простой* жизни и `возвышенном` мышлении
 
-## Index
+[К оглавлению](./HOME.md)
 
-## Начало
-
-[Ссылка](./HOME.md)
-
-[Ссылка](./materials/SIMPLE.md)
-
-![Alt-текст](./materials/img/i.jpg)
-**[⬆ Back to Index](#index)**
-
-
-**[⬆ Back to Начало](#начало)**
+<a target=_blank href="https://discordapp.com/invite/XtHbgRk">Чат проекта в Discord</a>
