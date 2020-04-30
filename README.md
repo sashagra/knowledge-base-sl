@@ -1,2 +1,2 @@
-# kwowledge-base-sl
+# knowledge-base-sl
 База знаний о простой жизни и возвышенном мышлении
