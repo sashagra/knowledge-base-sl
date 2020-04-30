@@ -5,3 +5,5 @@
 [Ссылка](./HOME.md)
 
 [Ссылка](./materials/SIMPLE.md)
+
+![Alt-текст](./materials/img/i.jpg)
