@@ -2,6 +2,6 @@
 
 База знаний о *простой* жизни и `возвышенном` мышлении
 
-[К оглавлению](./HOME.md)
+[К оглавлению](./HOME.md#оглавление)
 
-<a target=_blank href="https://discordapp.com/invite/XtHbgRk">Чат проекта в Discord</a>
+[Чат проекта в Discord](https://discord.gg/mUVEEq)

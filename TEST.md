@@ -9,6 +9,11 @@
 
 ## Начало
 
+<details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   A1: JavaScript 
+</details>
+
 [Ссылка](./HOME.md)
 
 [Ссылка](./materials/SIMPLE.md)
