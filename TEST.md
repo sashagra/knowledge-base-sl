@@ -15,7 +15,6 @@
 
 [Ссылка](./HOME.md)
 
-[Чат проекта в Discord](https://discordapp.com/invite/XtHbgRk)
 
 **[⬆ Back to Index](#index)**
 
