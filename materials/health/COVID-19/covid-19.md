@@ -13,7 +13,7 @@
 
 ## Медиа материалы:
 
-- <a target="_blank" href="https://nd.nl.tab.digital/s/xPoGK3RXYe8E8TK">Важное дополнение к схеме лечение (mp3)</a>
+- <a target="_blank" href="https://nd.nl.tab.digital/s/xPoGK3RXYe8E8TK">Важное дополнение к схеме лечение (аудио)</a>
 - <a target="_blank" href="https://video.ploud.jp/videos/watch/6b8910cb-e8c6-4257-8b23-3c76000be7c5">Видео-конференция о КОВИД для преданных (Вриндавана Вихарини д.д.)</a>
 
 **[⬆ Наверх](#оглавление)**
