@@ -15,5 +15,5 @@
 9. На ночь мелотонин по 1 таблетке на ночь 1 месяц.
 10. Плюс добавить 5-htp 100 мг 1 раз в день 1-3 месяца.
 
-- <a href="https://www.vegetology.com/shop/active-energy-complex">Хороший курс восстановления</a>
+- <a href="https://www.vegetology.com/shop/active-energy-complex" target="_blank">Хороший курс восстановления</a>
 - [Вегетарианские витамины, протеины, микроэлементы](./vitamin.md)

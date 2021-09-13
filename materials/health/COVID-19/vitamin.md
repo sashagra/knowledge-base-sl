@@ -21,7 +21,7 @@
 
 ### Про Омега-3
 
-- <a href="https://promusculus.ru/kak-pravilno-prinimat-omega-3-instrukciya/" target="_blank">Как правильно принимать Омега-3: инструкция по применению, дозировка в сутки, вред</a>
+- <a target="_blank" href="https://promusculus.ru/kak-pravilno-prinimat-omega-3-instrukciya/" target="_blank">Как правильно принимать Омега-3: инструкция по применению, дозировка в сутки, вред</a>
 
 - #### Список вегетарианской омеги 3 EPA DHA:
 
