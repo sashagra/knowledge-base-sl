@@ -63,7 +63,7 @@
 
 - ### Община
 
-  - `неизв.` [Основы сельской общины](./materials/community/community-basic.md)
+  - `Неизв.` [Основы сельской общины](./materials/community/community-basic.md)
   - `БССТх` [ШЕСТЬДЕСЯТ ЧЕТЫРЕ принципа устройства вайшнавской общины](./materials/community/community-64-bsst.md)
   - `БВСС` [Концептуальные основы строительства загородной Общины](./materials/community/community-concept.md)
   - `Михаил Чибисов` [Духовная коммуна](./materials/community/spititual-community.md)
