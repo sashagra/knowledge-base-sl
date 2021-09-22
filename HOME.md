@@ -50,7 +50,7 @@
 - ### Здоровье
 
   - [Целебные свойства молока](./materials/health/milk.md)
-  - [Лечение и профилактика COVID-19](./materials/health/COVID-19/covid-19.md)
+  - [Лечение и профилактика COVID-19](./materials/health/COVID-19/index.md)
 
   **[⬆ К оглавлению](#оглавление)**
 
