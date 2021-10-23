@@ -28,12 +28,12 @@
 
 ### Спиральная гимнастика
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQLBFvzB_I4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 99%" width="560" height="315" src="https://www.youtube.com/embed/VQLBFvzB_I4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Дыхательная гимнастика
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ae3dc6UYsWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 99%" width="560" height="315" src="https://www.youtube.com/embed/ae3dc6UYsWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Недыхательная гимнастика от Доктора Евдокименко
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VkJjDYAZqms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 99%" width="560" height="315" src="https://www.youtube.com/embed/VkJjDYAZqms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

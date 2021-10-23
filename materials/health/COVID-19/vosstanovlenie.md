@@ -17,7 +17,7 @@
 
 ## Упражнения для восстановления
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PqxlsYnNCzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 99%" width="560" height="315" src="https://www.youtube.com/embed/PqxlsYnNCzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - <a href="https://www.vegetology.com/shop/active-energy-complex" target="_blank">Хороший курс восстановления</a>
 - [Вегетарианские витамины, протеины, микроэлементы](./vitamin.md)
