@@ -36,6 +36,8 @@
 
 ### Недыхательная гимнастика от Доктора Евдокименко
 
-## <iframe style="max-width: 99%" width="560" height="315" src="https://www.youtube.com/embed/VkJjDYAZqms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width: 99%" width="560" height="315" src="https://www.youtube.com/embed/VkJjDYAZqms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 **[⬆ Наверх](#вот-примерная-схема-лечения-без-осложнений)**
