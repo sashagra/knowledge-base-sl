@@ -1,6 +1,6 @@
 # Подведение итогов на тему ковид и вакцинации
 
-с матаджи Вриндавана Вихарини и Дханвантари Гауранга прабху. Встреча в Zoom 27.08.2022
+с матаджи Вриндавана-вихарини и Дханвантари Гауранга прабху. Встреча в Zoom 27.08.2022
 
 **[⬅️ В раздел Здоровье](../../../HOME.md#здоровье)**
 
@@ -23,7 +23,7 @@
 - Почему используют КТ, если по сравнению с рентгеном лучевая нагрузка на организм человека в случае КТ в 10 раз выше? Информируют ли пациентов, что 6 исследований КТ приравнивается курсу лучевой терапии?
 - Что такое "матовое стекло"?
 
-<iframe title="27.08.2022 Подведение итогов на тему ковид и вакцинации с м. Вриндавана Вихарани" src="https://video.ploud.jp/videos/embed/0651dc74-62df-42b2-8696-feb1f4bf2dc1" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="27.08.2022 Подведение итогов на тему ковид и вакцинации с м. Вриндавана-вихарани" src="https://video.ploud.jp/videos/embed/0651dc74-62df-42b2-8696-feb1f4bf2dc1" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 <a href="https://video.ploud.jp/w/1MgeSJ2MUh1vQuYikhwYQR" target="_blank">Открыть в новом окне</a>
 
