@@ -5,7 +5,7 @@
 ## Оглавление
 
 - [Сельское хозяйство](#сельское-хозяйство)
-- [Защита коров](#защита-коров)
+- [Защита коров](./materials/cows/index.md)
 - [Община](#община)
 - [Здоровье](#здоровье)
 - [Гурукула](#гурукула)
@@ -24,26 +24,6 @@
   - [Выращивание полбы](https://vk.com/wall-183099234_464)
   - [Выращивание озимой ржи](https://vk.com/wall-183099234_375)
   - [Сеялки ручные](https://vk.com/wall-183099234_535)
-
-  **[⬆ К оглавлению](#оглавление)**
-
-- ### Защита коров
-
-  - [Зачем быку кольцо в носу](https://prostayajizn.ru/zachem-byku-koltso-v-nosu.html)
-  - `БВС` [Cбор средств на защиту коров](https://prostayajizn.ru/bkhakti-vikasha-svami-o-zashchite-korov.html)
-  - [Обучение быков в ИСККОН](https://prostayajizn.ru/vseprivlekayushchaya-sila-bykov/obuchenie-bykov-v-iskkon.html)
-  - [Быки - это основа](https://prostayajizn.ru/vseprivlekayushchaya-sila-bykov/byki-eto-osnova.html)
-  - [Всепривлекающая сила быков](https://prostayajizn.ru/vseprivlekayushchaya-sila-bykov/vseprivlekayushchaya-sila-bykov-otzyvy-so-vsego-mira.html)
-  - [Трелёвка леса. Справляется один бык](https://prostayajizn.ru/vseprivlekayushchaya-sila-bykov/treljovka-lesa-spravlyaetsya-odin-byk.html)
-  - [Введение к курсу по обучению быков](https://prostayajizn.ru/obuchenie-volov.html)
-  - [Курс по обучению быков. Ч.1](https://prostayajizn.ru/obuchenie-volov-chetyre-uroka-ot-balabkhadry-dasa.html)
-  - [Курс по обучению быков. Ч.2](https://prostayajizn.ru/obuchenie-volov-3.html)
-  - [Изготовление ярма](https://prostayajizn.ru/izgotovlenie-yarma.html)
-  - [Брошюра о коровах](https://prostayajizn.ru/broshyura-o-korovakh.html)
-  - `ББД` [Защита коров Лекция Балабхадры Даса](https://prostayajizn.ru/zashchita-korov/zashchita-korov-lektsiya-balabkhadry-dasa.html)
-  - `ББД` [Защита коров - основа брахманической культуры](https://prostayajizn.ru/zashchita-korov/zashchita-korov-lektsiya-balabkhadry-dasa.html)
-  - [Минимальный стандарт защиты коров](https://prostayajizn.ru/zashchita-korov/minimalnyj-standart-zashchity-korov.html)
-  - [Защита коров вверена сословию торговцев](https://prostayajizn.ru/shrila-prabkhupada-o-varnashrame-i-zashchite-korov/zashchita-korov-vverena-sosloviyu-torgovtsev.html)
 
   **[⬆ К оглавлению](#оглавление)**
 
