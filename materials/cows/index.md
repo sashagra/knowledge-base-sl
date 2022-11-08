@@ -1,6 +1,6 @@
 # Материалы о защите коров
 
-**[⬆ К оглавлению](../../HOME.md#оглавление)**
+**[⬆ К оглавлению](../../HOME.md#разделы)**
 
 - [Резолюция ДжиБиСи об ахимса молоке для храмов](./ahimsa-milk-gbc-resolution-2022.md)
 - [Зачем быку кольцо в носу](https://web.archive.org/web/20190316180041/http://prostayajizn.ru/zachem-byku-koltso-v-nosu.html)
@@ -19,4 +19,4 @@
 - [Минимальный стандарт защиты коров](https://web.archive.org/web/20190316180041/http://prostayajizn.ru/zashchita-korov/minimalnyj-standart-zashchity-korov.html)
 - [Защита коров вверена сословию торговцев](https://web.archive.org/web/20190316180041/http://prostayajizn.ru/shrila-prabkhupada-o-varnashrame-i-zashchite-korov/zashchita-korov-vverena-sosloviyu-torgovtsev.html)
 
-**[⬆ К оглавлению](../../HOME.md#оглавление)**
+**[⬆ К оглавлению](../../HOME.md#разделы)**

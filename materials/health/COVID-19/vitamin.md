@@ -1,6 +1,6 @@
 # Ресурсы и ссылки по веганским витаминам
 
-**[⬅️ В раздел Здоровье](../../../HOME.md#здоровье)**
+**[⬅️ В раздел Здоровье](../index.md)**
 
 **[⬅️ Раздел о ковид-19](./covid-19.md)**
 
@@ -91,4 +91,4 @@
 - <a href="https://ru.iherb.com/pr/Solgar-B-Complex-100-100-Vegetable-Capsules/19437?rcode=FUT9725" target="_blank">Комплекс</a>
 - <a href="https://ru.iherb.com/pr/Solgar-Omega-3-EPA-DHA-Triple-Strength-950-mg-100-Softgels/26738?rcode=FUT9725" target="_blank">Комплекс</a>
 
-**[⬆ Наверх](#оглавление)**
+**[⬆ Наверх](#разделы)**
