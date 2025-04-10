@@ -3,6 +3,7 @@
 **[⬆ К оглавлению](../../HOME.md#разделы)**
 
 - [Резолюция ДжиБиСи об ахимса молоке для храмов](./ahimsa-milk-gbc-resolution-2022.md)
+- [Брошюра о коровах. Прабхавата д.д.](./broshura-o-korovah.md)
 - [Зачем быку кольцо в носу](https://web.archive.org/web/20190316180041/http://prostayajizn.ru/zachem-byku-koltso-v-nosu.html)
 - `БВКС` [Cбор средств на защиту коров](https://web.archive.org/web/20190316180041/http://prostayajizn.ru/bkhakti-vikasha-svami-o-zashchite-korov.html)
 - [Обучение быков в ИСККОН](https://web.archive.org/web/20190316180041/http://prostayajizn.ru/vseprivlekayushchaya-sila-bykov/obuchenie-bykov-v-iskkon.html)
