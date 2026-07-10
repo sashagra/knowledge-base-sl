@@ -10,4 +10,5 @@
 - [Здоровье](./materials/health/index.md)
 - [Гурукула](./materials/gurukula/index.md)
 - [Колледжи варнашрамы](./materials/varnasrama-college/index.md)
+- [Святое имя](./materials/bhakti/2026.06.25-О-святом-имени.md)
 
